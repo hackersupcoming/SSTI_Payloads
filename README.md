@@ -1,4 +1,4 @@
-# SSTI_Payloads
+# SSTI_Payloads 
 
 ${{<%[%'"}}%
 ${{7*7}}
